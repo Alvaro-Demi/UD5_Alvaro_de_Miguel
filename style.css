@@ -431,6 +431,9 @@ body {
     @media screen and (min-width: 1658px) {
         font-size: 25px;
     }
+    @media screen and (max-width: 400px) {
+        font-size: 12px;
+    }
 }
 
 .content-box2 .card-content {
@@ -447,7 +450,9 @@ body {
     @media screen and (min-width: 1658px) {
         font-size: 24px;
     }
-
+    @media screen and (max-width: 400px) {
+        font-size: 12px;
+    }
 }
 
 .content-box .card-content:hover,
